@@ -37,4 +37,4 @@ Nenhuma instalação externa é necessária. O projeto utiliza apenas módulos p
 1. Certifique-se de ter o **Python 3** instalado.
 2. Baixe o arquivo `.py` deste repositório ou clone o projeto:
    ```bash
-   git clone [(https://github.com/caiobraza/galaxia-simples.git)]
+3. git clone [(https://github.com/caiobraza/galaxia-simples.git)]
